@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kapil Singh Thakuri</h1>
-<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 
 - 🔭 I’m currently working on **php**.
