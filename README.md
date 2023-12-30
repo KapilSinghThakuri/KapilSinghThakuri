@@ -1,3 +1,4 @@
+[![MasterHead](<img width="100%" height = "100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="cover" />)]((https://KapilSinghThakuri.io)
 <h1 align="center">Hi there, I'm Kapil Singh Thakuri</h1>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
