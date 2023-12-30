@@ -22,7 +22,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapilsinghthakuri&show_icons=true&locale=en" alt="kapilsinghthakuri" /></p>
 
+<!-- THIS CODE FOR display github trophy -->
 <!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapilsinghthakuri" alt="kapilsinghthakuri" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapilsinghthakuri" alt="kapilsinghthakuri" /></a> </p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilsinghthakuri&" alt="kapilsinghthakuri" /></p>
