@@ -25,7 +25,7 @@
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapilsinghthakuri&show_icons=true&locale=en" alt="kapilsinghthakuri" /></p>
 -->
-
+<!-- THIS CODE FOR Display GitHUB Trophy -->
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapilsinghthakuri" alt="kapilsinghthakuri" /></a> </p>
 -->
