@@ -5,9 +5,7 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 
-- 🔭 I’m currently working on **php**.
-
-- 🌱 I’m currently learning **Laravel**.
+- 🔭 I’m currently working on **Laravel**.
 
 - 📫 How to reach me **kapilsinghthakuri33@gmail.com**
 
